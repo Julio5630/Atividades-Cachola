@@ -1,4 +1,3 @@
-Claro\! Aqui está um `README.md` para o seu código:
 
 -----
 
